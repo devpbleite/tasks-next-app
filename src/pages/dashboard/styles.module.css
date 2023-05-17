@@ -45,6 +45,7 @@
   background-color: #3183ff;
   padding: 12px 0;
   font-size: 18px;
+  cursor: pointer;
 }
 
 .taskContainer {
@@ -75,7 +76,7 @@
   align-items: flex-start;
   border: 1.5px solid #909090;
   border-radius: 4px;
-  padding: 14px;
+  padding: 14px;  
 }
 
 .tagContainer {
@@ -109,6 +110,7 @@
 
 .taskContent p {
   white-space: pre-wrap;
+  font-size: 14px;
 }
 
 .trashButton {
